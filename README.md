@@ -77,5 +77,5 @@ Summarized findings that highlight performance trends, growth opportunities, and
 
 ## 👤 Author
 **Daivik Tapase**  
-GitHub: [https://github.com/yourusername  ](https://github.com/daivik-tapase-01)
-LinkedIn: [https://www.linkedin.com/in/yourprofile ](http://www.linkedin.com/in/daivik-tapase) 
+GitHub: [https://github.com/daivik-tapase  ](https://github.com/daivik-tapase-01)
+LinkedIn: [https://www.linkedin.com/in/daivik-tapase ](http://www.linkedin.com/in/daivik-tapase) 
